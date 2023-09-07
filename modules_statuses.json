@@ -1,0 +1,14 @@
+{
+    "Agencia": true,
+    "Role": true,
+    "Permission": true,
+    "User": true,
+    "Login": true,
+    "Empresa": true,
+    "Log": true,
+    "Respaldo": true,
+    "Paciente": true,
+    "Doctor": true,
+    "Medicina": true,
+    "Consulta": true
+}

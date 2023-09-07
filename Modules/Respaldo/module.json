@@ -1,0 +1,13 @@
+{
+    "name": "Respaldo",
+    "alias": "respaldo",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Respaldo\\Providers\\RespaldoServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
